@@ -1,0 +1,40 @@
+Trainee Developer selections : KodeinKGP
+
+Name: Rohit Bej
+Department: Mechanical
+Roll no.: 24ME10135
+Hall of residence: Lal Bahadur Sashtri
+
+This is a website of KodeinKGP as per instructions:
+
+
+Navbar: 
+This consist of LOGO and KODEINKGP text as the name of website and a menu section which have options: home, PDS_Bank, Articles, teams and Events(Only home and team button will work)
+
+Hover effect: added a underline effect on hover (menu buttons)
+
+Hamburgur: 
+This will show up when the screen size becomes 800px or less
+hides menu bar and add a (3-line) button to the navbar 
+clicking on the button will show the menu.
+
+
+Footer:
+there are 4 sections in this part
+1st section: added KodeinKGP logo and address
+2nd section: added links to blockchain devlopment
+3rd section: added links to Machine Learning
+4th section: added links to Web Devlopment
+
+
+Home Page: 
+added intro of KodeinKGP and Robot GIF(I was not able to make the Robot with css)
+
+Teams:
+used data.json file to store data- this helps to manage the data easily
+!! I have not used any real name or image from KodeinKGP, i have used model images and the names are: for heads: head 1, head 2,....
+for role: role 1, role 2....
+used js to add profile cards of all team members
+
+
+

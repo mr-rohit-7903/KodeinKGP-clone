@@ -1,0 +1,106 @@
+/* Title */
+.teams .secbox .title{
+    color: #3dc4d4;
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+}
+/* subtitle */
+.teams .secbox .subTitle{
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* list of teams starts */
+.teams .secbox ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 3rem 0;
+}
+.teams .secbox ul li{
+    border: 0.2rem solid #3dc4d4;
+    border-radius: 1rem;
+    background: #3dc5d433;
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+    color:#fff;
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+.teams .secbox ul .activeTeam{
+    background: #3dc4d4;
+    color: #01011b;
+}
+.teams .secbox ul li:hover{
+    background: #3dc5d41a;
+    color:#b5b3b3f0;
+}
+.teams .secbox ul .activeTeam:hover{
+    background: #3dc4d4;
+    color: #01011b;
+}
+/* list of teams ends */
+
+/* card container  */
+.teams .secbox .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/* cards start */
+.teams .card{
+    color: #3dc4d4;
+    width: 28rem;
+    display: flex;
+    border: 0.5rem solid #3dc4d4;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    margin: 3rem ;
+    transition: 0.3s ease;
+    position: relative;
+    transition: all 0.5s ease;
+}
+.teams .card .icons{
+    font-size: 2rem;
+    text-decoration: none;
+    opacity: 0;
+    padding: 0.2rem;
+    transition: 0.5s ease;
+}
+.teams .card .icons i{
+    color: #3dc4d4;
+}
+.teams .card .role{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+.teams .card img{
+    margin-top: 2rem;
+    height: 25rem;
+    width: 20rem;
+    object-fit: cover;
+}
+.teams .card .name{
+    margin-bottom: 2rem;
+    color:#fff;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.teams .card:hover{
+    box-shadow: 0 0 1rem #3dc4d4;
+    margin-top: 2.5rem;
+    background: #ffffff27;
+    .icons{
+        opacity: 100%;
+    }
+}
+/* cards ends  */

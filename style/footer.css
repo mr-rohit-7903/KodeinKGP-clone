@@ -1,0 +1,55 @@
+footer{
+    bottom: 0;
+    color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-top: 1px solid #ffffff5a;
+}
+
+/* footer first part starts */
+footer .foot1{
+    padding: 3rem 2rem 0 3rem;
+    margin-right: 5rem;
+}
+footer .foot1 .foothead h2{
+    padding: 2rem 0;
+    font-size: 2.3rem;
+}
+footer .foot1 .logo{
+    height: 5rem;
+}
+footer .foot1 .address{
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+}
+footer .foot1 .icons i{
+    color: #fff;
+    font-size: 3rem;
+    margin: 4rem 2rem 4rem 0;
+}
+/* footer first part ends  */
+
+/* footer remaining part starts  */
+footer .domain{
+    padding: 5rem 3rem 3rem 3rem;
+}
+footer .domain h3{
+    font-size: 2rem;
+    letter-spacing: 0.05rem;
+    font-weight: 750;
+    margin-bottom: 3rem;
+}
+footer .domain .linkbox{
+    display: flex;
+    flex-direction: column;
+}
+footer .domain .linkbox a{
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: rgb(234, 198, 148);
+    margin-bottom: 1.3rem;
+}
+/* footer remaining part ends */

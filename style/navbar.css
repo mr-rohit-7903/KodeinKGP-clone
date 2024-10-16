@@ -1,0 +1,115 @@
+/* navbar starts */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.7rem 2em;
+    height: 8rem;
+    background: #01011b8c;
+}
+
+/* logo starts  */
+header .logo {
+    font-size: 1.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+header .logo img{
+    height: 5rem;
+    margin-right: 1.3rem;
+}
+/* logo ends  */
+
+/* menu starts  */
+header .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.5rem;
+}
+header .navbar li {
+    margin-left: 5rem;
+}
+header .navbar ul li a {
+    font-size: 1.8rem;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+    transition: 0.2s;
+    position: relative;
+}
+/* menu ends  */
+
+/* hover element  */
+.navbar ul li a::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: #4eb2ff; 
+    transform: scaleX(0); 
+    transform-origin: left; 
+    transition: transform 0.3s ease; 
+}
+.navbar ul li a:hover::after {
+    transform: scaleX(1); 
+    transform-origin: left;
+}
+/* hover element */
+/* navbar ends */
+  
+/* hamburger icon starts*/
+#menu {
+    font-size: 3rem;
+    cursor: pointer;
+    color: #fff;
+    display: none;
+}
+@media (max-width: 800px) {
+    #menu {
+        display: block;
+    }
+    header .navbar {
+        left: 0;
+        top: 8rem;
+        position: fixed;
+        display: none;
+        width: 100%;
+        height: 100%;
+        background: #01011b;
+    }
+    header .navbar ul {
+        flex-flow: column;
+        padding: 1rem;
+    }
+    header .navbar ul li {
+        text-align: center;
+        width: 100%;
+        margin: 1.5rem 0;
+        border-radius: 0.5rem;
+        width: 26rem;
+    }
+    header .navbar ul li a {
+        display: block;
+        padding: 1rem;
+        text-align: center;
+        color: #fff;
+        font-size: 2rem;
+    }
+    header .navbar.nav-toggle {
+        display: block;
+    }
+}
+/* hamburger icon ends */

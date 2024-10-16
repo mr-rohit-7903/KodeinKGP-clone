@@ -1,0 +1,177 @@
+/* front part starts  */
+.home .main{
+    display: flex;
+    color: #fff;
+}
+.home .main .content{
+    padding: 5rem;
+    width: 55%;
+}
+.home .main .content h1{
+    font-size: 6.5rem;
+}
+.home .main .content h2{
+    font-size: 8rem;
+}
+.home .main .content .quote{
+    font-size: 2rem;
+    color: #979898;
+    padding: 4rem 0;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.home .main .content .about{
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.home .main .gif{
+    flex: 1;
+}
+.home .main .gif img{
+    width: 100%;
+    height: auto;
+    padding-top: 10rem;
+}
+/* front part ends  */
+
+.home .work{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.home .work .workBox{
+    margin: 3rem;
+    display: flex;
+    font-size: 2.5rem;
+    align-items: center;
+}
+.home .work .workBox p{
+    font-size: 2.5rem;
+    padding: 0.5rem;
+    font-weight: 700;
+    
+}
+.home .work .workBox p span{
+    color: #fff;
+    font-size: 3rem;
+    margin-right: 1rem;
+}
+
+.home .experties h2{
+    font-size: 4.5rem;
+    text-align: center;
+    margin: 3rem;
+}
+.home .experties .boxes{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.home .experties .expbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #181725;
+    margin: 5rem;
+    border-radius: 5rem;
+    height: 50rem;
+    width: 30rem;
+}
+.home .experties .expbox img{
+    width: 24rem;
+    height: 24rem;
+    object-fit: contain;
+    margin: 2rem;
+}
+.home .experties .expbox h3{
+    font-size: 3rem;
+    color: #3dc4d4;
+    font-weight: 400;
+    padding: 2rem;
+}
+.home .experties .expbox p{
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 2rem 5rem;
+}
+
+
+
+
+@media (max-width: 1200px) and (min-width: 800px) {
+    .home .main .content h1{
+        font-size: 5.5rem;
+    }
+    .home .main .content h2{
+        font-size: 6rem;
+    }
+    .home .experties .expbox{
+        height: 45rem;
+        width: 30rem
+    }
+    .home .experties .expbox h3{
+        font-size: 3rem;
+        text-align: center;
+    }
+    .home .experties .expbox img{
+        width: 20rem;
+        height: 20rem;
+    }
+}
+@media (max-width: 1000px) and (min-width: 800px){
+    .home .main{
+        flex-direction: column;
+    }
+    .home .main .content{
+        width: 100%;
+        padding: 3rem;
+    }
+    .home .main .content h1{
+        font-size: 6.5rem;
+    }
+    .home .main .content h2{
+        font-size: 8rem;
+    }
+    .home .work .workBox{
+        flex-direction: column;
+    }
+    .home .experties .expbox{
+        height: 43rem;
+        width: 25rem;
+        margin: 3rem;
+    }
+    .home .experties .expbox h3{
+        font-size: 2.7rem;
+    }
+    .home .experties .expbox p{
+        padding: 1rem 3rem;
+    }
+    .home .experties .expbox img{
+        width: 14rem;
+        height: 14rem;
+    }
+}
+@media (max-width: 800px) {
+    .home .main{
+        flex-direction: column;
+    }
+    .home .main .content{
+        width: 100%;
+        padding: 3rem;
+    }
+    .home .main .content h1{
+        font-size: 5.5rem;
+    }
+    .home .main .content h2{
+        font-size: 6rem;
+    }
+    .home .work{
+        flex-direction: column;
+    }
+    .home .experties .boxes{
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}

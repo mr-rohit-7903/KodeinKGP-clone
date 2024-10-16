@@ -1,0 +1,130 @@
+{
+  "heads": [
+    {
+      "name": "Head 1",
+      "imageUrl": "./images/heads/head_1.jpg",
+      "role": "Role 1"
+    },
+    {
+      "name": "Head 2",
+      "imageUrl": "./images/heads/head_2.jpg",
+      "role": "Role 2"
+    },
+    {
+      "name": "Head 3",
+      "imageUrl": "./images/heads/head_3.jpg",
+      "role": "Role 3"
+    },
+    {
+      "name": "Head 4",
+      "imageUrl": "./images/heads/head_4.jpg",
+      "role": "Role 4"
+    },
+    {
+      "name": "Head 5",
+      "imageUrl": "./images/heads/head_5.jpg",
+      "role": "Role 5"
+    },
+    {
+    "name": "Head 6",
+    "imageUrl": "./images/heads/head_6.jpg",
+    "role": "Role 6"
+    },
+    {
+      "name": "Head 7",
+      "imageUrl": "./images/heads/head_7.jpg",
+      "role": "Role 7"
+    },
+    {
+      "name": "Head 8",
+      "imageUrl": "./images/heads/head_8.jpg",
+      "role": "Role 8"
+    },
+    {
+      "name": "Head 9",
+      "imageUrl": "./images/heads/head_9.jpg",
+      "role": "Role 9"
+    },
+    {
+      "name": "Head 10",
+      "imageUrl": "./images/heads/head_10.jpg",
+      "role": "Role 10"
+    },
+    {
+      "name": "Head 11",
+        "imageUrl": "./images/heads/head_11.jpg",
+        "role": "Role 11"
+      }
+    ],
+  "founders": [
+    { "name": "Founder 1", "imageUrl": "./images/founders/f1.jpg"},
+    { "name": "Founder 2", "imageUrl": "./images/founders/f2.jpg"}
+  ],
+  "advisors": [
+    { "name": "Advisor 1", "imageUrl": "./images/advisors/ad_1.jpg"},
+    { "name": "Advisor 2", "imageUrl": "./images/advisors/ad_2.jpg"},
+    { "name": "Advisor 3", "imageUrl": "./images/advisors/ad_3.jpg"},
+    { "name": "Advisor 4", "imageUrl": "./images/advisors/ad_4.jpg"},
+    { "name": "Advisor 5", "imageUrl": "./images/advisors/ad_5.jpg"},
+    { "name": "Advisor 6", "imageUrl": "./images/advisors/ad_6.jpg"}
+  ],
+  "tech": [
+    { "name": "Tech 1", "imageUrl": "./images/tech/tech_1.jpg" },
+    { "name": "Tech 2", "imageUrl": "./images/tech/tech_2.jpg" },
+    { "name": "Tech 3", "imageUrl": "./images/tech/tech_3.jpg" },
+    { "name": "Tech 4", "imageUrl": "./images/tech/tech_4.jpg" },
+    { "name": "Tech 5", "imageUrl": "./images/tech/tech_5.jpg" },
+    { "name": "Tech 6", "imageUrl": "./images/tech/tech_6.jpg" },
+    { "name": "Tech 7", "imageUrl": "./images/tech/tech_7.jpg" },
+    { "name": "Tech 8", "imageUrl": "./images/tech/tech_8.jpg" },
+    { "name": "Tech 9", "imageUrl": "./images/tech/tech_9.jpg" },
+    { "name": "Tech 10", "imageUrl": "./images/tech/tech_10.jpg" },
+    { "name": "Tech 11", "imageUrl": "./images/tech/tech_11.jpg" }
+  ],
+  "ai": [
+    { "name": "AI 1", "imageUrl": "./images/ai/ai_1.jpg" },
+    { "name": "AI 2", "imageUrl": "./images/ai/ai_2.jpg" },
+    { "name": "AI 3", "imageUrl": "./images/ai/ai_3.jpg" },
+    { "name": "AI 4", "imageUrl": "./images/ai/ai_4.jpg" },
+    { "name": "AI 5", "imageUrl": "./images/ai/ai_5.jpg" },
+    { "name": "AI 6", "imageUrl": "./images/ai/ai_6.jpg" },
+    { "name": "AI 7", "imageUrl": "./images/ai/ai_7.jpg" },
+    { "name": "AI 8", "imageUrl": "./images/ai/ai_8.jpg" },
+    { "name": "AI 9", "imageUrl": "./images/ai/ai_9.jpg" },
+    { "name": "AI 10", "imageUrl": "./images/ai/ai_10.jpg" },
+    { "name": "AI 11", "imageUrl": "./images/ai/ai_11.jpg" },
+    { "name": "AI 12", "imageUrl": "./images/ai/ai_12.jpg" },
+    { "name": "AI 13", "imageUrl": "./images/ai/ai_13.jpg" },
+    { "name": "AI 14", "imageUrl": "./images/ai/ai_14.jpg" }
+  ],
+  "blockchain": [
+    { "name": "Blockchain 1", "imageUrl": "./images/blockchain/blockchain_1.jpg" },
+    { "name": "Blockchain 2", "imageUrl": "./images/blockchain/blockchain_2.jpg" },
+    { "name": "Blockchain 3", "imageUrl": "./images/blockchain/blockchain_3.jpg" },
+    { "name": "Blockchain 4", "imageUrl": "./images/blockchain/blockchain_4.jpg" },
+    { "name": "Blockchain 5", "imageUrl": "./images/blockchain/blockchain_5.jpg" },
+    { "name": "Blockchain 6", "imageUrl": "./images/blockchain/blockchain_6.jpg" },
+    { "name": "Blockchain 7", "imageUrl": "./images/blockchain/blockchain_7.jpg" },
+    { "name": "Blockchain 8", "imageUrl": "./images/blockchain/blockchain_8.jpg" },
+    { "name": "Blockchain 9", "imageUrl": "./images/blockchain/blockchain_9.jpg" },
+    { "name": "Blockchain 10", "imageUrl": "./images/blockchain/blockchain_10.jpg" },
+    { "name": "Blockchain 11", "imageUrl": "./images/blockchain/blockchain_11.jpg" },
+    { "name": "Blockchain 12", "imageUrl": "./images/blockchain/blockchain_12.jpg" }
+  ],
+  "events": [
+    { "name": "Event 1", "imageUrl": "./images/events/event_1.jpg" },
+    { "name": "Event 2", "imageUrl": "./images/events/event_2.jpg" },
+    { "name": "Event 3", "imageUrl": "./images/events/event_3.jpg" },
+    { "name": "Event 4", "imageUrl": "./images/events/event_4.jpg" },
+    { "name": "Event 5", "imageUrl": "./images/events/event_5.jpg" },
+    { "name": "Event 6", "imageUrl": "./images/events/event_6.jpg" },
+    { "name": "Event 7", "imageUrl": "./images/events/event_7.jpg" },
+    { "name": "Event 8", "imageUrl": "./images/events/event_8.jpg" }
+  ],
+  "design": [
+    { "name": "Design 1", "imageUrl": "./images/design/design_1.jpg" },
+    { "name": "Design 2", "imageUrl": "./images/design/design_2.jpg" },
+    { "name": "Design 3", "imageUrl": "./images/design/design_3.jpg" },
+    { "name": "Design 4", "imageUrl": "./images/design/design_4.jpg" }
+  ]
+}
