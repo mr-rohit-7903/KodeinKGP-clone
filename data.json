@@ -1,59 +1,59 @@
 {
   "heads": [
     {
-      "name": "Head 1",
+      "name": "Aadish Jain",
       "imageUrl": "./images/heads/head_1.jpg",
-      "role": "Role 1"
+      "role": "Executive Head"
     },
     {
-      "name": "Head 2",
+      "name": "Akash Manna",
       "imageUrl": "./images/heads/head_2.jpg",
-      "role": "Role 2"
+      "role": "Executive Head"
     },
     {
-      "name": "Head 3",
+      "name": "G.M.M. Prabhash",
       "imageUrl": "./images/heads/head_3.jpg",
-      "role": "Role 3"
+      "role": "Tech Head"
     },
     {
-      "name": "Head 4",
+      "name": "Adarsh Tadiparthi",
       "imageUrl": "./images/heads/head_4.jpg",
-      "role": "Role 4"
+      "role": "Tech Head"
     },
     {
-      "name": "Head 5",
+      "name": "Bhavesh Pabnani",
       "imageUrl": "./images/heads/head_5.jpg",
-      "role": "Role 5"
+      "role": "AI and Metaverse Head"
     },
     {
-    "name": "Head 6",
+    "name": "Parijat Sutradhar",
     "imageUrl": "./images/heads/head_6.jpg",
-    "role": "Role 6"
+    "role": "AI and Metaverse Head"
     },
     {
-      "name": "Head 7",
+      "name": "Swadhin Kumar biswal",
       "imageUrl": "./images/heads/head_7.jpg",
-      "role": "Role 7"
+      "role": "Blockchain Head"
     },
     {
-      "name": "Head 8",
+      "name": "Ujjawal Agrawal",
       "imageUrl": "./images/heads/head_8.jpg",
-      "role": "Role 8"
+      "role": "Blockchain Head"
     },
     {
-      "name": "Head 9",
+      "name": "Shashi Bhushan",
       "imageUrl": "./images/heads/head_9.jpg",
-      "role": "Role 9"
+      "role": "Design Head"
     },
     {
-      "name": "Head 10",
+      "name": "Ayushi Pradhan",
       "imageUrl": "./images/heads/head_10.jpg",
-      "role": "Role 10"
+      "role": "Events Head"
     },
     {
-      "name": "Head 11",
+      "name": "Makrawat Singh",
         "imageUrl": "./images/heads/head_11.jpg",
-        "role": "Role 11"
+        "role": "Finance Head"
       }
     ],
   "founders": [
