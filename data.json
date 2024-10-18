@@ -98,33 +98,33 @@
     { "name": "Sidhartha Sankar Swain", "imageUrl": "./images/ai/ai_14.jpg" }
   ],
   "blockchain": [
-    { "name": "Blockchain 1", "imageUrl": "./images/blockchain/blockchain_1.jpg" },
-    { "name": "Blockchain 2", "imageUrl": "./images/blockchain/blockchain_2.jpg" },
-    { "name": "Blockchain 3", "imageUrl": "./images/blockchain/blockchain_3.jpg" },
-    { "name": "Blockchain 4", "imageUrl": "./images/blockchain/blockchain_4.jpg" },
-    { "name": "Blockchain 5", "imageUrl": "./images/blockchain/blockchain_5.jpg" },
-    { "name": "Blockchain 6", "imageUrl": "./images/blockchain/blockchain_6.jpg" },
-    { "name": "Blockchain 7", "imageUrl": "./images/blockchain/blockchain_7.jpg" },
-    { "name": "Blockchain 8", "imageUrl": "./images/blockchain/blockchain_8.jpg" },
-    { "name": "Blockchain 9", "imageUrl": "./images/blockchain/blockchain_9.jpg" },
-    { "name": "Blockchain 10", "imageUrl": "./images/blockchain/blockchain_10.jpg" },
-    { "name": "Blockchain 11", "imageUrl": "./images/blockchain/blockchain_11.jpg" },
-    { "name": "Blockchain 12", "imageUrl": "./images/blockchain/blockchain_12.jpg" }
+    { "name": "Om Singh Jadon", "imageUrl": "./images/blockchain/blockchain_1.jpg" },
+    { "name": "Kshitij Roy", "imageUrl": "./images/blockchain/blockchain_2.jpg" },
+    { "name": "Shashank Pandya", "imageUrl": "./images/blockchain/blockchain_3.jpg" },
+    { "name": "Shriya Sinha", "imageUrl": "./images/blockchain/blockchain_4.jpg" },
+    { "name": "Aryan Yadav", "imageUrl": "./images/blockchain/blockchain_5.jpg" },
+    { "name": "Komanabelli Balaji", "imageUrl": "./images/blockchain/blockchain_6.jpg" },
+    { "name": "Ashutosh Ranjan", "imageUrl": "./images/blockchain/blockchain_7.jpg" },
+    { "name": "Bikram Ghuku", "imageUrl": "./images/blockchain/blockchain_8.jpg" },
+    { "name": "Atreya Bordoloi", "imageUrl": "./images/blockchain/blockchain_9.jpg" },
+    { "name": "Suryansh Singh Parihar", "imageUrl": "./images/blockchain/blockchain_10.jpg" },
+    { "name": "Syed Nasif Hossain", "imageUrl": "./images/blockchain/blockchain_11.jpg" },
+    { "name": "Arnab Jena", "imageUrl": "./images/blockchain/blockchain_12.jpg" }
   ],
   "events": [
-    { "name": "Event 1", "imageUrl": "./images/events/event_1.jpg" },
-    { "name": "Event 2", "imageUrl": "./images/events/event_2.jpg" },
-    { "name": "Event 3", "imageUrl": "./images/events/event_3.jpg" },
-    { "name": "Event 4", "imageUrl": "./images/events/event_4.jpg" },
-    { "name": "Event 5", "imageUrl": "./images/events/event_5.jpg" },
-    { "name": "Event 6", "imageUrl": "./images/events/event_6.jpg" },
-    { "name": "Event 7", "imageUrl": "./images/events/event_7.jpg" },
-    { "name": "Event 8", "imageUrl": "./images/events/event_8.jpg" }
+    { "name": "Kavya Nagar", "imageUrl": "./images/events/event_1.jpg" },
+    { "name": "Aditya Goyal", "imageUrl": "./images/events/event_2.jpg" },
+    { "name": "Tejas Sushil Rajput", "imageUrl": "./images/events/event_3.jpg" },
+    { "name": "Anirban Pal", "imageUrl": "./images/events/event_4.jpg" },
+    { "name": "Jiya Manjari", "imageUrl": "./images/events/event_5.jpg" },
+    { "name": "Daksh Sargiya", "imageUrl": "./images/events/event_6.jpg" },
+    { "name": "Arnab Jena", "imageUrl": "./images/events/event_7.jpg" },
+    { "name": "Sujal Kaware", "imageUrl": "./images/events/event_8.jpg" }
   ],
   "design": [
-    { "name": "Design 1", "imageUrl": "./images/design/design_1.jpg" },
-    { "name": "Design 2", "imageUrl": "./images/design/design_2.jpg" },
-    { "name": "Design 3", "imageUrl": "./images/design/design_3.jpg" },
-    { "name": "Design 4", "imageUrl": "./images/design/design_4.jpg" }
+    { "name": "Saloni", "imageUrl": "./images/design/design_1.jpg" },
+    { "name": "Kavya Nagar", "imageUrl": "./images/design/design_2.jpg" },
+    { "name": "Khushi Srivastava", "imageUrl": "./images/design/design_3.jpg" },
+    { "name": "Prathwik Naik", "imageUrl": "./images/design/design_4.jpg" }
   ]
 }
