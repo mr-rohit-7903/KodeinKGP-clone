@@ -69,17 +69,17 @@
     { "name": "Neeraj Patel", "imageUrl": "./images/advisors/ad_6.jpg"}
   ],
   "tech": [
-    { "name": "Tech 1", "imageUrl": "./images/tech/tech_1.jpg" },
-    { "name": "Tech 2", "imageUrl": "./images/tech/tech_2.jpg" },
-    { "name": "Tech 3", "imageUrl": "./images/tech/tech_3.jpg" },
-    { "name": "Tech 4", "imageUrl": "./images/tech/tech_4.jpg" },
-    { "name": "Tech 5", "imageUrl": "./images/tech/tech_5.jpg" },
-    { "name": "Tech 6", "imageUrl": "./images/tech/tech_6.jpg" },
-    { "name": "Tech 7", "imageUrl": "./images/tech/tech_7.jpg" },
-    { "name": "Tech 8", "imageUrl": "./images/tech/tech_8.jpg" },
-    { "name": "Tech 9", "imageUrl": "./images/tech/tech_9.jpg" },
-    { "name": "Tech 10", "imageUrl": "./images/tech/tech_10.jpg" },
-    { "name": "Tech 11", "imageUrl": "./images/tech/tech_11.jpg" }
+    { "name": "Om Singh Jadon", "imageUrl": "./images/tech/tech_1.jpg" },
+    { "name": "Arumilli Thanvi Sree", "imageUrl": "./images/tech/tech_2.jpg" },
+    { "name": "Shaurya Raj", "imageUrl": "./images/tech/tech_3.jpg" },
+    { "name": "Uditangshu Chakraborty", "imageUrl": "./images/tech/tech_4.jpg" },
+    { "name": "Sudhanshu", "imageUrl": "./images/tech/tech_5.jpg" },
+    { "name": "Harsh Dalmia", "imageUrl": "./images/tech/tech_6.jpg" },
+    { "name": "Shubhraj Singh Dodiya", "imageUrl": "./images/tech/tech_7.jpg" },
+    { "name": "Jayanshu Jena", "imageUrl": "./images/tech/tech_8.jpg" },
+    { "name": "Zoya Alam", "imageUrl": "./images/tech/tech_9.jpg" },
+    { "name": "Aliva Patro", "imageUrl": "./images/tech/tech_10.jpg" },
+    { "name": "Bikram Ghuku", "imageUrl": "./images/tech/tech_11.jpg" }
   ],
   "ai": [
     { "name": "AI 1", "imageUrl": "./images/ai/ai_1.jpg" },
