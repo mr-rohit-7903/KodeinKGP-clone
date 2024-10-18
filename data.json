@@ -57,8 +57,8 @@
       }
     ],
   "founders": [
-    { "name": "Founder 1", "imageUrl": "./images/founders/f1.jpg"},
-    { "name": "Founder 2", "imageUrl": "./images/founders/f2.jpg"}
+    { "name": "Suraj Gupta", "imageUrl": "./images/founders/f1.jpg"},
+    { "name": "Bhushan Nakade", "imageUrl": "./images/founders/f2.jpg"}
   ],
   "advisors": [
     { "name": "Advisor 1", "imageUrl": "./images/advisors/ad_1.jpg"},
