@@ -61,12 +61,12 @@
     { "name": "Bhushan Nakade", "imageUrl": "./images/founders/f2.jpg"}
   ],
   "advisors": [
-    { "name": "Advisor 1", "imageUrl": "./images/advisors/ad_1.jpg"},
-    { "name": "Advisor 2", "imageUrl": "./images/advisors/ad_2.jpg"},
-    { "name": "Advisor 3", "imageUrl": "./images/advisors/ad_3.jpg"},
-    { "name": "Advisor 4", "imageUrl": "./images/advisors/ad_4.jpg"},
-    { "name": "Advisor 5", "imageUrl": "./images/advisors/ad_5.jpg"},
-    { "name": "Advisor 6", "imageUrl": "./images/advisors/ad_6.jpg"}
+    { "name": "Kunal Agarwal", "imageUrl": "./images/advisors/ad_1.jpg"},
+    { "name": "Sumit Kumar Sharma", "imageUrl": "./images/advisors/ad_2.jpg"},
+    { "name": "Priyanshu Ranjan", "imageUrl": "./images/advisors/ad_3.jpg"},
+    { "name": "Hemanth Sai Krishna", "imageUrl": "./images/advisors/ad_4.jpg"},
+    { "name": "Soukhin Nayek", "imageUrl": "./images/advisors/ad_5.jpg"},
+    { "name": "Neeraj Patel", "imageUrl": "./images/advisors/ad_6.jpg"}
   ],
   "tech": [
     { "name": "Tech 1", "imageUrl": "./images/tech/tech_1.jpg" },
